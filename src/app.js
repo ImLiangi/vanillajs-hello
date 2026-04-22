@@ -18,6 +18,7 @@ let adj = [
   'amazing',
   'incredible',
 ];
+
 let noun = [
   'jogger',
   'racoon',
